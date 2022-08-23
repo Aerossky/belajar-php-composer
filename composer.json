@@ -1,0 +1,19 @@
+{
+    "name": "risky/composer-library",
+    "description": "library composer hello",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Risky\\belajar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aerossky",
+            "email": "riskyradeonrx560@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
